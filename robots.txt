@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phoogeewuw.spuddys.nl/sitemap.xml
